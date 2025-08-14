@@ -8,7 +8,7 @@ const partners: string[] = [
   "https://mach-consultants.com/wp-content/uploads/2022/05/LRI.jpg",
   "https://mach-consultants.com/wp-content/uploads/2022/05/UBYFOL.jpg",
   "/images/ilp.png",
-  "/images/pdp.jpg",
+  "/images/pd&p.jpeg",
 ];
 
 export function Partners({ className }: { className?: string }) {
