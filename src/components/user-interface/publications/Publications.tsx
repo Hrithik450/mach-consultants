@@ -1,8 +1,8 @@
 "use client";
 
+import { Calendar } from "lucide-react";
 import React, { useEffect, useRef } from "react";
 import { Skeleton } from "@/components/ui/skeleton";
-import { ArrowRight, Calendar } from "lucide-react";
 import { motion, useAnimation, useInView } from "motion/react";
 import { BlogDataContext } from "@/components/layout/Layout-wrapper";
 

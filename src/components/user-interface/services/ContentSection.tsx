@@ -1,5 +1,4 @@
 import { Service } from "@/app/(user-interface)/services/page";
-import { ArrowUpRight } from "lucide-react";
 import * as motion from "motion/react-client";
 
 export function ContentSection({ service }: Service) {

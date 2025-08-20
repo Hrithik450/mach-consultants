@@ -24,9 +24,8 @@ export function AboutHeroSection() {
         ABOUT US
       </motion.h2>
 
-      <div className="flex gap-4 sm:gap-6 md:gap-10 items-start mt-2 sm:mt-3 md:mt-4">
+      <div className="flex max-sm:flex-col gap-4 sm:gap-6 md:gap-10 items-start mt-2 sm:mt-3 md:mt-4">
         {/* Left Part */}
-
         <motion.div
           initial={{
             scale: 0.7,

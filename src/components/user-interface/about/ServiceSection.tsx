@@ -1,4 +1,3 @@
-import { ChevronRight } from "lucide-react";
 import * as motion from "motion/react-client";
 
 type Service = {

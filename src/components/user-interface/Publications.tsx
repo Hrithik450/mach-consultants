@@ -1,8 +1,9 @@
 "use client";
+
 import React from "react";
+import { motion } from "motion/react";
 import { ChevronRight } from "lucide-react";
 import { Skeleton } from "@/components/ui/skeleton";
-import { motion } from "motion/react";
 import { useResponsiveFlag } from "@/lib/hooks/use-mobile";
 import { BlogDataContext } from "@/components/layout/Layout-wrapper";
 
@@ -33,14 +34,12 @@ export function Publications({ className }: { className?: string }) {
   if (!promises) return;
 
   const [{ data }] = React.use(promises);
-
   const isMobile = useResponsiveFlag();
   const [hasMounted, setHasMounted] = React.useState<boolean>(false);
 
   React.useEffect(() => {
     setHasMounted(true);
   }, []);
-
   if (!hasMounted) return null;
 
   return (
@@ -64,6 +63,7 @@ export function Publications({ className }: { className?: string }) {
         >
           Publications
         </motion.p>
+
         <motion.h2
           initial={{
             y: 100,

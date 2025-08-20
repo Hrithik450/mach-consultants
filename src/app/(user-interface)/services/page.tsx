@@ -1,6 +1,6 @@
-import { ContentSection } from "@/components/user-interface/services/ContentSection";
-import { HeroSection } from "@/components/user-interface/services/HeroSection";
 import React from "react";
+import { HeroSection } from "@/components/user-interface/services/HeroSection";
+import { ContentSection } from "@/components/user-interface/services/ContentSection";
 
 export type Service = {
   service: {
@@ -64,7 +64,7 @@ const services: Service["service"][] = [
   },
 ];
 
-const Services = () => {
+export default function Services() {
   return (
     <main className="bg-white">
       <HeroSection />
@@ -83,6 +83,4 @@ const Services = () => {
       </div>
     </main>
   );
-};
-
-export default Services;
+}
