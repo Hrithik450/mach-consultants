@@ -2,11 +2,11 @@ import React from "react";
 import * as motion from "motion/react-client";
 
 const partners: string[] = [
-  "https://mach-consultants.com/wp-content/uploads/2024/05/ISEOR-Smaller.jpg",
-  "https://mach-consultants.com/wp-content/uploads/2022/05/aec_logo_en.jpg",
+  "/images/ISEOR-Smaller.jpg",
+  "/images/aec_logo_en.jpg",
   "/images/apave.jpeg",
-  "https://mach-consultants.com/wp-content/uploads/2022/05/LRI.jpg",
-  "https://mach-consultants.com/wp-content/uploads/2022/05/UBYFOL.jpg",
+  "/images/LRI.jpg",
+  "/images/UBYFOL.jpg",
   "/images/ilp.png",
   "/images/pd&p.jpeg",
 ];

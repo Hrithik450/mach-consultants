@@ -29,7 +29,7 @@ export function Header() {
           {/* Logo */}
           <div className="flex items-center gap-2 z-30">
             <img
-              src="https://mach-consultants.com/wp-content/uploads/2022/03/MACH-LOGO-FINAL-01.png"
+              src="/images/MACH-LOGO-FINAL-01.png"
               alt="Logo"
               className="w-auto h-12 md:h-15"
             />
@@ -82,7 +82,7 @@ export function Header() {
             >
               <div className="flex items-center gap-2 pt-3 pb-5">
                 <img
-                  src="https://mach-consultants.com/wp-content/uploads/2022/03/MACH-LOGO-FINAL-01.png"
+                  src="/images/MACH-LOGO-FINAL-01.png"
                   alt="Logo"
                   className="w-auto h-12 md:h-15"
                 />

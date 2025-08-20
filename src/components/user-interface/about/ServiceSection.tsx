@@ -87,7 +87,7 @@ export function ServiceSection() {
               ease: "easeOut",
               delay: 0.2,
             }}
-            src="https://mach-consultants.com/wp-content/uploads/2024/05/pexels-karolina-grabowska-4195409-1.jpg"
+            src="/images/pexels-karolina-grabowska-4195409-1.jpg"
             alt="Our Services"
             className="rounded-xl sm:rounded-2xl md:rounded-[3rem] w-full h-auto object-cover mt-4 sm:mt-6"
             loading="lazy"

@@ -3,7 +3,7 @@ import { NuqsAdapter } from "nuqs/adapters/next/app";
 
 export const metadata = {
   icons: {
-    icon: "https://mach-consultants.com/wp-content/uploads/2022/03/MACH-LOGO-FINAL-01.png",
+    icon: "/images/MACH-LOGO-FINAL-01.png",
   },
 };
 

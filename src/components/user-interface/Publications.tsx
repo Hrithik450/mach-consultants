@@ -119,7 +119,7 @@ export function Publications({ className }: { className?: string }) {
                       delay: isMobile ? idx * 0.2 : 0,
                     }}
                     key={idx}
-                    className="flex flex-col items-center text-left bg-white border border-gray-200 py-2 shadow-lg rounded-lg"
+                    className="flex flex-col items-center h-full text-left bg-white py-2 shadow-lg rounded-lg"
                   >
                     <div className="relative max-h-56 w-full overflow-hidden rounded-t-xl aspect-square mb-4 sm:mb-6">
                       <img

@@ -152,7 +152,7 @@ export function RecentBlogs() {
                       <img
                         src={blog.featured_image_url}
                         alt={blog.title}
-                        className="w-full h-auto md:max-h-36 object-cover rounded-xl shrink-0 hover:scale-102 transform-all duration-300"
+                        className="w-full h-full md:max-h-36 object-cover rounded-xl shrink-0 hover:scale-102 transform-all duration-300"
                       />
                     </div>
 

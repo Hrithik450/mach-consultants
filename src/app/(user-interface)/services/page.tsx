@@ -16,8 +16,7 @@ export type Service = {
 const services: Service["service"][] = [
   {
     title: "CODE - Consulting for Organization and Development of Enterprises",
-    image:
-      "https://mach-consultants.com/wp-content/uploads/2024/05/CODE-without-a-title-1-1024x985.jpg",
+    image: "/images/CODE-without-a-title-1-1024x985.jpg",
     desc: "Reveals the hidden resources and critical elements of operations in order to develop the capabilities of the enterprise for global performance, create transformations, improve global performance, build strategic vigilance, and foster innovation and resilience.",
     buttonText: "Book Appointment",
     bgColor: "bg-gradient-to-r from-blue-100 to-white",
@@ -25,8 +24,7 @@ const services: Service["service"][] = [
   },
   {
     title: "DPIE - Transformational Change",
-    image:
-      "https://mach-consultants.com/wp-content/uploads/2024/05/Transformational-Change-without-a-title.jpg",
+    image: "/images/Transformational-Change-without-a-title.jpg",
     desc: "Few professionals doubt that companies and administrations need to transform. We help organizations manage their transformations effectively and instill processes to identify transformation objectives, methods, and measurements.",
     buttonText: "Book Appointment",
     bgColor: "bg-gradient-to-r from-white to-pink-100",
@@ -34,8 +32,7 @@ const services: Service["service"][] = [
   },
   {
     title: "STAR - Strategy Tracking and Review",
-    image:
-      "https://mach-consultants.com/wp-content/uploads/2024/05/Strategy-without-a-title.jpg",
+    image: "/images/Strategy-without-a-title.jpg",
     desc: "The pace of change in the world is brutal; reactive strategies fall short of delivering results and survivability. Get ahead of the curve with the right process of strategy review.",
     buttonText: "Book Appointment",
     bgColor: "bg-gradient-to-r from-blue-100 to-white",
@@ -43,8 +40,7 @@ const services: Service["service"][] = [
   },
   {
     title: "OMC - Operations and Management Control",
-    image:
-      "https://mach-consultants.com/wp-content/uploads/2024/05/Management-Control-english-958x1024.jpg",
+    image: "/images/Management-Control-english-958x1024.jpg",
     desc: "Unleashes then federates human energy through collaborative management tools. It is the process needed by business leaders to monitor and control the advancement toward objectives, and the alignment of personal objectives with teamwork and corporate goals.",
     buttonText: "Book Appointment",
     bgColor: "bg-gradient-to-r from-white to-pink-100",
@@ -52,8 +48,7 @@ const services: Service["service"][] = [
   },
   {
     title: "BRD - Business Responsible Development",
-    image:
-      "https://mach-consultants.com/wp-content/uploads/2024/05/BRD-without-a-title-1024x388.jpg",
+    image: "/images/BRD-without-a-title-1024x388.jpg",
     desc: "We are not imposing models or certifications or a procedure. We go into the company, work with the people with their environmental and social sensibilities in order to innovate in the products, processes, strategies, to build environmental and social resources to sustain future growth of the company.",
     buttonText: "Book Appointment",
     bgColor: "bg-gradient-to-r from-blue-100 to-white",
@@ -61,8 +56,7 @@ const services: Service["service"][] = [
   },
   {
     title: "BUTTERS - Project Management",
-    image:
-      "https://mach-consultants.com/wp-content/uploads/2024/05/BUTTERS-with-no-title-1536x776.jpg",
+    image: "/images/BUTTERS-with-no-title-1536x776.jpg",
     desc: "Designed for ease and effectiveness, BUTTERS offers a user-friendly guide that not only balances all aspects of project management, but also drives your projects to a greater level of accomplishment.",
     buttonText: "Book Appointment",
     bgColor: "bg-gradient-to-r from-white to-pink-100",
