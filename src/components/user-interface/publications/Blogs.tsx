@@ -79,7 +79,7 @@ export function RecentBlogs() {
         transition={{ duration: 0.3, ease: "easeOut" }}
         className="text-3xl md:text-4xl font-bold mb-8 font-PTSerif italic"
       >
-        Recent Blogs
+        Recent Publications
       </motion.h2>
 
       <React.Suspense
