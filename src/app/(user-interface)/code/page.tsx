@@ -35,14 +35,14 @@ export default function CodePage() {
           Breaking the CODE of Effective Enterprising
         </h2>
         <p>
-          CODE is a socio-economic consulting framework designed to unlock
+          CODE is a scientific consulting framework designed to unlock
           hidden potential in enterprises by identifying invisible costs and
-          inefficiencies. With over 45 years of research, it has been applied to
-          2400 organizations across 45 countries and 72 sectors.
+          inefficiencies. With over <b>50</b> years of research, it has been applied to
+          2400 organizations across <b>45</b> countries and <b>72</b> sectors.
         </p>
         <ul className="list-disc pl-5 space-y-2">
           <li>
-            Focus on hidden costs not captured by traditional systems like
+            <b>Focuses</b> on hidden costs not captured by traditional systems like
             budgeting or KPIs.
           </li>
           <li>
@@ -51,7 +51,7 @@ export default function CodePage() {
           </li>
           <li>
             Applicable to industries including healthcare, IT, food,
-            engineering, and public services.
+            engineering, <b>public services and others</b>.
           </li>
         </ul>
       </motion.div>
